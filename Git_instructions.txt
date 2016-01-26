@@ -1,0 +1,4 @@
+git status - check status of changes
+git add . - add everything from this point down
+git commit -m “message” - commit changes with a message in current tense
+git push - put the changes on the repository “in the cloud”
